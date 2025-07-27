@@ -1,0 +1,2 @@
+# Ignore all CSVs in the store-sales-time-series-forecasting directory
+store-sales-time-series-forecasting/*.csv
